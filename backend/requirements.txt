@@ -1,1 +1,5 @@
 django==5.1
+djangorestframework
+djangorestframework-authtoken
+django-cors-headers
+django-browser-reload
